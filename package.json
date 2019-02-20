@@ -6,7 +6,7 @@
   "dependencies": {
     "eris": "abalabahaha/eris#dev",
     "mongoose": "^4.11.12"
-  "scripts": {
+  "scripts" {
     "start": "node index.js"
   },
   "devDependencies": {},
