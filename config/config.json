@@ -6,10 +6,10 @@
   },
   "statusName": "Play.RelaXCraft.Org",
   "prefix": "<",
-  "useMentionPrefix": true, //Allow Mentions
-  "infoImageUrl": "https://pbs.twimg.com/profile_images/588685547876421632/p3UErTSr.jpg", //A nice image Url
-  "suggestionChannel":"452870417959354399", //channel to post submitted suggestions in
-  "suggestionMod":"roleId", //id of role that is allowed to moderate submissions
-  "name":"nya", //Name that shows in the prefix nya command
-  "infoDescription":"Your memes here." // Description that shows in the prefix nya command
+  "useMentionPrefix": true, 
+  "infoImageUrl": "https://pbs.twimg.com/profile_images/588685547876421632/p3UErTSr.jpg", 
+  "suggestionChannel":"452870417959354399", 
+  "suggestionMod":"roleId", 
+  "name":"nya", 
+  "infoDescription":"Your memes here."
 }
