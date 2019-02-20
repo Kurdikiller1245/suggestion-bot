@@ -6,10 +6,10 @@
   "scripts": {
     "start": "node index.js"
    },
-  "dependencies": {
+  "dependencies":{
     "eris": "abalabahaha/eris#dev",
     "mongoose": "^4.11.12",
-   },
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
