@@ -3,7 +3,9 @@
   "description": "relaxcraft",
   "version": "0.1.0",
   "main": "index.js",
-
+  "scripts": {
+    "start": "node index.js"
+   },
   "dependencies": {
     "eris": "abalabahaha/eris#dev",
     "mongoose": "^4.11.12",
